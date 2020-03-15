@@ -1,1 +1,12 @@
-Einfaldur leikur
+Einfaldur leikur, kann ekki að láta hann skjóta og náði ekki að setja inn navmesh til að AI persónan fylgi spilara.
+Endaskjár hætti að virka þegar ég var að fara yfir á einhverjum tímapunkti, náði ekki að laga.
+
+Leikurinn byrjar á upphafsskjá með takka til að halda áfram
+Spilari safnar 4 kubbum og heyrir hljóð þegar hann nær kubb.
+spilari sér uppsöfnuð stig á teljara efst á skjá.
+Spilari deyr ef hann fer útfyrir heiminn eða kemur við vatn, þá heyrir hann gameover hljóð og fer á endaskjá.
+
+Bætti við húsum og allskonar particle effects úr standard assets package
+Fjöll eru í einum enda dalsins en sjór í hinum mikill gróður er á einu svæði og eru 2 vötn af misjafnri stærð
+Það er verið að skjóta upp flugeldum og kviknað er í einu húsi á byrjunarstað
+
